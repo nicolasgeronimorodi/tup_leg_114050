@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace BancoAppV6.frontend
+{
+    public partial class frmReporteListadoClientes : Form
+    {
+        public frmReporteListadoClientes()
+        {
+            InitializeComponent();
+            
+        }
+
+        private void frmReporteListadoClientes_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

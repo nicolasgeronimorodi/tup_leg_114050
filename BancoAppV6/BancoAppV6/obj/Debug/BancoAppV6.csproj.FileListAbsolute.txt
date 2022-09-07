@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\bin\Debug\BancoAppV6.exe.config
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\bin\Debug\BancoAppV6.exe
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\bin\Debug\BancoAppV6.pdb
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.Properties.Resources.resources
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.exe
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.pdb
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.csproj.SuggestedBindingRedirects.cache
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.frontend.frmInicio.resources
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.frontend.frmClientes.resources
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.frontend.frmCuentas.resources
+C:\Users\usuario\Desktop\UTN\2ndoCuatrimestre\PROGRAMACION\Unidad_1\Soluciones_Unidad1\Unidad1_BancoV6\BancoAppV6\BancoAppV6\obj\Debug\BancoAppV6.frontend.frmReporteListadoClientes.resources
