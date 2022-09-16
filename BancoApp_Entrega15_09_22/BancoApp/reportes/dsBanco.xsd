@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsBanco" targetNamespace="http://tempuri.org/dsBanco.xsd" xmlns:mstns="http://tempuri.org/dsBanco.xsd" xmlns="http://tempuri.org/dsBanco.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsBanco" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="dsBanco" msprop:Generator_DataSetName="dsBanco">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtCuentasXClientesParam" msprop:Generator_RowEvHandlerName="dtCuentasXClientesParamRowChangeEventHandler" msprop:Generator_RowDeletedName="dtCuentasXClientesParamRowDeleted" msprop:Generator_RowDeletingName="dtCuentasXClientesParamRowDeleting" msprop:Generator_RowEvArgName="dtCuentasXClientesParamRowChangeEvent" msprop:Generator_TablePropName="dtCuentasXClientesParam" msprop:Generator_RowChangedName="dtCuentasXClientesParamRowChanged" msprop:Generator_RowChangingName="dtCuentasXClientesParamRowChanging" msprop:Generator_TableClassName="dtCuentasXClientesParamDataTable" msprop:Generator_RowClassName="dtCuentasXClientesParamRow" msprop:Generator_TableVarName="tabledtCuentasXClientesParam" msprop:Generator_UserTableName="dtCuentasXClientesParam">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nro_cuenta" msprop:Generator_ColumnPropNameInRow="nro_cuenta" msprop:Generator_ColumnPropNameInTable="nro_cuentaColumn" msprop:Generator_ColumnVarNameInTable="columnnro_cuenta" msprop:Generator_UserColumnName="nro_cuenta" type="xs:int" minOccurs="0" />
+              <xs:element name="nro_cliente" msprop:Generator_ColumnPropNameInRow="nro_cliente" msprop:Generator_ColumnPropNameInTable="nro_clienteColumn" msprop:Generator_ColumnVarNameInTable="columnnro_cliente" msprop:Generator_UserColumnName="nro_cliente" type="xs:int" minOccurs="0" />
+              <xs:element name="cbu" msprop:Generator_ColumnPropNameInRow="cbu" msprop:Generator_ColumnPropNameInTable="cbuColumn" msprop:Generator_ColumnVarNameInTable="columncbu" msprop:Generator_UserColumnName="cbu" type="xs:int" minOccurs="0" />
+              <xs:element name="saldo" msprop:Generator_ColumnPropNameInRow="saldo" msprop:Generator_ColumnPropNameInTable="saldoColumn" msprop:Generator_ColumnVarNameInTable="columnsaldo" msprop:Generator_UserColumnName="saldo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="ultimoMov" msprop:Generator_ColumnPropNameInRow="ultimoMov" msprop:Generator_ColumnPropNameInTable="ultimoMovColumn" msprop:Generator_ColumnVarNameInTable="columnultimoMov" msprop:Generator_UserColumnName="ultimoMov" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="nombreCliente" msprop:Generator_ColumnPropNameInRow="nombreCliente" msprop:Generator_ColumnPropNameInTable="nombreClienteColumn" msprop:Generator_ColumnVarNameInTable="columnnombreCliente" msprop:Generator_UserColumnName="nombreCliente" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
